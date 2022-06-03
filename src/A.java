@@ -3,6 +3,6 @@ public class A {
         System.out.println("En A()");
     }
     public A (int i){
-        System.out.println("En A(i)");
+        System.out.println("En A (i)");
     }
 }
